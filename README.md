@@ -61,7 +61,7 @@ Play Type Filter – Focus on selected play categories
 ## Dashboard Preview
 ![NFL Preview](./Dashboard.png)
 
-🛠 Tools & Technologies
+## Tools & Technologies
 
 Power BI – Data visualization & dashboard design
 ![screenshot of Dasboard](./Chiamaka Dashboard.png)
