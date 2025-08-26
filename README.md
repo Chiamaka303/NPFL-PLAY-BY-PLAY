@@ -63,7 +63,7 @@ Play Type Filter – Focus on selected play categories
 🛠 Tools & Technologies
 
 Power BI – Data visualization & dashboard design
-
+![screenshot of Dasboard](./Chiamaka Dashboard.png)
 
 Excel / CSV – Data cleaning and preprocessing
 
