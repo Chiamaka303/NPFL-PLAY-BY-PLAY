@@ -59,7 +59,8 @@ Team Selector – Compare performances by specific teams
 Play Type Filter – Focus on selected play categories
 
 ## Dashboard Preview
-![NFL Preview](./Chiamaka Dashboard.png)
+![NFL Preview](/Chiamaka Dashboard.png)
+
 🛠 Tools & Technologies
 
 Power BI – Data visualization & dashboard design
